@@ -1,0 +1,11 @@
+{
+  "name": "node-cec-remote",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "hapi": "^17.2.0",
+    "hapi-boom-decorators": "^4.0.0",
+    "inert": "^5.1.0"
+  }
+}
