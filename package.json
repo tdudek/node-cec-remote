@@ -6,6 +6,7 @@
   "dependencies": {
     "hapi": "^17.2.0",
     "hapi-boom-decorators": "^4.0.0",
-    "inert": "^5.1.0"
+    "inert": "^5.1.0",
+    "node-cec": "^0.1.2"
   }
 }

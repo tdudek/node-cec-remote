@@ -177,6 +177,10 @@ nigel@3.x.x:
     hoek "5.x.x"
     vise "3.x.x"
 
+node-cec@^0.1.2:
+  version "0.1.2"
+  resolved "https://registry.yarnpkg.com/node-cec/-/node-cec-0.1.2.tgz#b7c43f865e3e5ccea9d9bb339736766f7d6ff05d"
+
 pez@4.x.x:
   version "4.0.1"
   resolved "https://registry.yarnpkg.com/pez/-/pez-4.0.1.tgz#d698ecf9a146c9188d74abe5cef7b5cb71deb3b5"
